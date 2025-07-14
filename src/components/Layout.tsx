@@ -186,7 +186,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
           <div className="border-t border-white/20 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
             <p className="text-white/80">© 2025 Josey's Health Corner. All rights reserved.</p>
             <p className="text-white/60 text-sm mt-2 md:mt-0">
-              Powered by: Apostle Max Design
+              Powered by: Josey's Health Corner.
             </p>
           </div>
         </div>
